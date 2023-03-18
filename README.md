@@ -34,3 +34,6 @@ I'm also familiar with the following frameworks:
 And I've shipped code for these environments:
 
 <a href="https://en.wikipedia.org/wiki/IOS"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/ios/ios.png" alt="iOS" width="50"/></a> <a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/macos/macos.png" alt="macOS" width="50"/></a> <a href="https://www.android.com/"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/android/android.png" alt="Android" width="50"/></a> <a href="https://www.cloudfoundry.org/"><img src="https://avatars1.githubusercontent.com/u/621746?s=200&v=4" alt="Cloud Foundry" width="50"/></a> <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/docker/docker.png" alt="Docker" width="50"/></a> <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="50"/></a>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vkc2019&show_icons=true&locale=en&theme=dark" alt="vkc2019" /></p>
+
